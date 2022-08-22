@@ -1,0 +1,50 @@
+{F:/digital electronics/HDL/Final_Project/UART_TX.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/UART_TX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} {F:/digital electronics/HDL/Final_Project/Control_unit.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/Control_unit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control_Unit
+
+Top level modules:
+	Control_Unit
+
+} {} {}} {F:/digital electronics/HDL/Final_Project/Counter.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} {F:/digital electronics/HDL/Final_Project/UART_TX_TB.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/UART_TX_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX_TB
+
+Top level modules:
+	UART_TX_TB
+
+} {} {}} {F:/digital electronics/HDL/Final_Project/MUX.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/MUX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {F:/digital electronics/HDL/Final_Project/Parity_Calculator.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/Parity_Calculator.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parity_Calculator
+
+Top level modules:
+	Parity_Calculator
+
+} {} {}} {F:/digital electronics/HDL/Final_Project/Shift_Register.v} {1 {vlog -work work {F:/digital electronics/HDL/Final_Project/Shift_Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Shift_Register
+
+Top level modules:
+	Shift_Register
+
+} {} {}}
